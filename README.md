@@ -14,7 +14,8 @@ Par cette étude nous souhaitons étudier les différences sociales et économiq
 Contrairement à une idée répandue, le centre-ville comprend des lieux où les seuils de pauvreté sont élevés. Une partie de l’explication tient à la structure sociale du centre et à l’importance de petits logements à destination d’étudiants et, plus généralement, de jeunes actifs. En effet, l’enseignement supérieur et les emplois tertiaires suscitent l’installation de personnes jeunes, mais aussi plus pauvres. Cette population est ancrée aux alentours du château, du quartier de la Doutre ou de Saint-Serge. Cependant, les réhabilitations de logements dans le centre-ville, comme dans les quartiers périphériques, ont eu tendance à augmenter les montants des loyers. Cette situation précarise d’autant plus les étudiants, qui même en cumulant de faibles bourses et un emploi, ont des difficultés à terminer financièrement chaque mois. Toujours en lien avec les étudiants, des quartiers se développent en lien avec le développement du tram et du campus Belle-Beille. Le quartier de Patton subi l’arrivée d’étudiants augmentant le prix de l’immobilier et donc des loyers. On peut remarquer, qu’à l’instar des remarques de Vincent Veschambre (2002), on retrouve de nouveau une géographie de la pauvreté en corrélation à celle des années 1960 à Angers.
 
 ## Schéma de jointure spatiale 
-Insérer le schéma 
+<img width="950" height="378" alt="Capture d’écran 2026-05-07 à 18 08 39" src="https://github.com/user-attachments/assets/e345dcf2-15a0-4558-8407-62b376519a28" />
+
 
 # La pauvreté à l'échelle de l'aire d'attraction d'Angers (dont fait parti Savennière) - données vectoriels 
 <img width="565" height="367" alt="Capture d’écran 2026-05-07 à 17 42 53" src="https://github.com/user-attachments/assets/983f8259-9cdc-40db-84d5-91bb7f6a5af4" />
