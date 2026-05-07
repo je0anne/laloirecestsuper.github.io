@@ -5,7 +5,7 @@ Angers est une ville moyenne située dans la région Pays de la Loire. C’est l
 ## Description de la donnée 
 Ce projet s’appuie sur des données géospatiales pour analyser les différences socio-économiques et d’usage du sol entre deux communes du Maine-et-Loire : Angers et Savennières. L’objectif est de mettre en lumière les dynamiques territoriales liées à l’artificialisation des sols, à la répartition de la population et aux activités économiques, en fonction des types d’emprise au sol (zones urbaines, agricoles, etc.).
 ## Schéma de géotraitement de la jointure 
-### file:///Users/aurianeaugereau/Downloads/Capture%20d’écran%202026-05-07%20à%2017.17.22%20(1).png
+<img width="944" height="530" alt="Capture d’écran 2026-05-07 à 17 17 22 (1)" src="https://github.com/user-attachments/assets/0471711b-1f5e-464e-8a8d-ffe805a0df1f" />
 # Carte - données vectoriels 
 ## Descirption de la donnée 
 Texte description de la donné 
