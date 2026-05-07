@@ -5,7 +5,7 @@
 **Savennières** est une petite ville dans la deuxième couronne de la banlieue sud d’Angers dans le Maine-et-Loire (à une quinzaine de kilomètres du centre-ville). La ville est située dans la zone du val de Loire inscrite au patrimoine mondial de l’UNESCO depuis 2000. Elle est composée à 82,8% de terres agricoles en 2018, avec 35 appellations sur le territoire. C’est un bourg rural selon la grille communale de densité, hors de l’unité urbaine, dans l’aire d’attraction d’Angers. La population de la commune est en moyenne plus âgée que la moyenne du département. 
 
 ## Problématique
-Par cette étude nous souhaitons étudier les différences sociales et économiques entre les deux villes, en fonction de leur type d’emprise au sol (agriculture, urbain) et de l’âge moyen de la population
+Dans quelle mesure les dynamiques d’artificialisation et de pression immobilière à Angers renforcent-elles les inégalités socio-économiques entre les espaces urbains et ruraux, et comment ces inégalités se spatialisent-elles à l’échelle des communes et des carreaux ?
 
 ## La pauvreté à l'échelle du centre ville d'Angers
 <img width="1010" height="721" alt="Capture d’écran 2026-05-07 à 17 34 33" src="https://github.com/user-attachments/assets/160dc3a8-2f83-498d-a03b-e863922563e7" />
