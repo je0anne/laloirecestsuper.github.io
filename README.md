@@ -17,7 +17,7 @@ Contrairement à une idée répandue, le centre-ville comprend des lieux où les
 Insérer le schéma 
 
 # La pauvreté à l'échelle de l'aire d'attraction d'Angers (dont fait parti Savennière) - données vectoriels 
-<img width="565" height="367" alt="Capture d’écran 2026-05-07 à 17 42 53" src="https://github.com/user-attachments/assets/f0bd1c62-eaf4-493b-b01f-1d74a1103319" />
+<img width="565" height="367" alt="Capture d’écran 2026-05-07 à 17 42 53" src="https://github.com/user-attachments/assets/983f8259-9cdc-40db-84d5-91bb7f6a5af4" />
 
 ## Descirption de la donnée 
 À une échelle géographique plus large, on constate des taux de pauvreté élevés de part et d’autre du périmètre de l’Aire d’Attraction de la Ville d’Angers. Il s’agit d’espaces périurbanisés lointains ou d’espaces ruraux isolés. La proportion de personnes pauvres suit les axes routiers en s’éloignant d’Angers, vers Saumur, Segré, Cholet, etc. Ce phénomène s’explique par un ensemble de facteurs : un marché immobilier plus accessible en périphérie lointaine, surtout pour les familles qui ont besoin de grandes surfaces habitables, mais également le profil socio-économique (âge, sexe, niveaux de diplôme, emplois, revenus, etc.). Ces personnes précaires peuvent être captives de leur logement dans la mesure où, économiquement, elles ne peuvent pas partir, ce qui contribue à les maintenir à des niveaux élevés de pauvreté. Eloignés des emplois concentrés dans les centres urbains, ces ménages multiplient les déplacements (école, travail, famille, etc.), les fragilisant davantage. Au-delà de leur relégation, ces personnes sont de fait maintenues dans des conditions fragiles voire captives de celles-ci (Rougé, 2005).
