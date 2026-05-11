@@ -17,11 +17,11 @@ Le centre-ville d'Angers est un espace hétérogène où cohabitent des situatio
 <img width="950" height="378" alt="Capture d’écran 2026-05-07 à 18 08 39" src="https://github.com/user-attachments/assets/e345dcf2-15a0-4558-8407-62b376519a28" />
 
 
-# La pauvreté à l'échelle de l'aire d'attraction d'Angers (dont fait parti Savennière) - données vectoriels 
+# La pauvreté à l'échelle de l'aire d'attraction d'Angers (dont fait parti Savennière) - données vectorielles 
 <img width="565" height="367" alt="Capture d’écran 2026-05-07 à 17 42 53" src="https://github.com/user-attachments/assets/983f8259-9cdc-40db-84d5-91bb7f6a5af4" />
 
 ## Descirption de la donnée 
-À une échelle géographique plus large, on constate des taux de pauvreté élevés de part et d’autre du périmètre de l’Aire d’Attraction de la Ville d’Angers. Il s’agit d’espaces périurbanisés lointains ou d’espaces ruraux isolés. La proportion de personnes pauvres suit les axes routiers en s’éloignant d’Angers, vers Saumur, Segré, Cholet, etc. Ce phénomène s’explique par un ensemble de facteurs : un marché immobilier plus accessible en périphérie lointaine, surtout pour les familles qui ont besoin de grandes surfaces habitables, mais également le profil socio-économique (âge, sexe, niveaux de diplôme, emplois, revenus, etc.). Ces personnes précaires peuvent être captives de leur logement dans la mesure où, économiquement, elles ne peuvent pas partir, ce qui contribue à les maintenir à des niveaux élevés de pauvreté. Eloignés des emplois concentrés dans les centres urbains, ces ménages multiplient les déplacements (école, travail, famille, etc.), les fragilisant davantage. Au-delà de leur relégation, ces personnes sont de fait maintenues dans des conditions fragiles voire captives de celles-ci (Rougé, 2005).
+On constate des taux de pauvreté élevés de part et d’autre du périmètre de l’Aire d’Attraction de la Ville d’Angers. Il s’agit d’espaces périurbains éloignés du pôle urbain d'Angers, ou d’espaces ruraux. La proportion de personnes pauvres suit les axes routiers qui s'éloignent d’Angers, vers Saumur, Segré, Cholet. Le long de ces axes, l'immobilier est plus accessible, et les prix diminuent au fur et à mesure que les logements s'éloignent du centre-ville. De plus, les ménages installés en périphérie sont souvent des familles avec des besoin spatiaux plus importants, et ont donc plus d'espace pour des logements grands en périphérie. C'est une périurbanisation subie.  
 
 
 ## Conclusion 
