@@ -8,6 +8,7 @@
 Dans quelle mesure les dynamiques d’artificialisation et de pression immobilière à Angers renforcent-elles les inégalités socio-économiques entre les espaces urbains et ruraux, et comment ces inégalités se spatialisent-elles à l’échelle des communes et des carreaux ?
 
 ## La pauvreté à l'échelle du centre ville d'Angers
+Nous avons rencontrés des difficultés d'affichage de notre carte sur R, nous avons donc choisi cette carte en illustration mais nous avons tous de même rédiger le code que vous trouverai ci-dessous 
 <img width="1010" height="721" alt="Capture d’écran 2026-05-07 à 17 34 33" src="https://github.com/user-attachments/assets/160dc3a8-2f83-498d-a03b-e863922563e7" />
 
 ## Code 
