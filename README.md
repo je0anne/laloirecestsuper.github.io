@@ -118,7 +118,7 @@ carte <- leaflet() %>%
     )
   ) %>%
 
-  ### Ajouter les limites communales (en noir)
+Ajouter les limites communales (en noir)
   addPolygons(
     data = communes,
     fillColor = "transparent",
@@ -127,7 +127,7 @@ carte <- leaflet() %>%
     popup = ~nom  # Remplace par ta colonne
   ) %>%
 
-  ### Ajouter les quartiers politiques (en vert)
+Ajouter les quartiers politiques (en vert)
   addPolygons(
     data = quartiers,
     fillColor = "transparent",
@@ -136,7 +136,7 @@ carte <- leaflet() %>%
     popup = ~nom_quartier  # Remplace par ta colonne
   ) %>%
 
-  ### Ajouter une légende pour les taux de pauvreté
+Ajouter une légende pour les taux de pauvreté
   addLegend(
     position = "topright",
     pal = pal_pauvrete,
@@ -150,7 +150,7 @@ carte <- leaflet() %>%
     bins = seuils_pauvrete
   ) %>%
 
-  ### Ajouter une légende pour les limites
+Ajouter une légende pour les limites
   addLegend(
     position = "bottomright",
     colors = c("black", "green"),
@@ -158,7 +158,7 @@ carte <- leaflet() %>%
     title = "Limites administratives"
   ) %>%
 
-  ### Ajouter un titre
+ Ajouter un titre
   addControl(
     html = "
     <div style='text-align: center; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);'>
@@ -171,7 +171,7 @@ carte <- leaflet() %>%
     position = "topcenter"
   ) %>%
 
-  ### Centrer la carte sur Angers et Savennières
+Centrer la carte sur Angers et Savennières
   fitBounds(
     lng1 = min(st_bbox(communes)[["xmin"]]),
     lat1 = min(st_bbox(communes)[["ymin"]]),
