@@ -11,7 +11,7 @@ Dans quelle mesure les dynamiques d’artificialisation et de pression immobili�
 <img width="1010" height="721" alt="Capture d’écran 2026-05-07 à 17 34 33" src="https://github.com/user-attachments/assets/160dc3a8-2f83-498d-a03b-e863922563e7" />
 
 ## Code 
-# Récupération des géométries 
+### Récupération des géométries 
 library(leaflet)
 library(sf)
 library(RColorBrewer)
@@ -24,7 +24,7 @@ angers <- get_apicarto_cadastre("49100", type = "commune")
 tot <- get_apicarto_cadastre(commune, type = "commune")
 st_write(tot, "data/projet.gpkg", "commune", delete_layer = T)
 
-# Récupérer une orthophoto
+### Récupérer une orthophoto
 r <- get_wms_raster(angers,
                     layer = "ORTHOIMAGERY.ORTHOPHOTOS",
                     res = 10,
@@ -38,7 +38,7 @@ library(terra)
 r <- rast("data/angers")
 plot(r)
 
-# Découpage du raster 
+### Découpage du raster 
 car <- st_read("data/cours5.gpkg", "carreau_manquant", quiet=T)
 carBondy <- car [car$code == 93010,]
 plot(carBondy$geom)
