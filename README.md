@@ -79,7 +79,7 @@ Le centre-ville d'Angers est un espace hétérogène où cohabitent des situatio
 
 # Code 
 
-# Charger les bibliothèques nécessaires
+### Charger les bibliothèques nécessaires
 library(leaflet)
 library(sf)
 library(dplyr)
